@@ -1,8 +1,5 @@
 nftset=/1e100.net/4#inet#fw4#vpn_domains
-nftset=/amazonaws.com/4#inet#fw4#vpn_domains
-nftset=/cloudfront.net/4#inet#fw4#vpn_domains
 nftset=/datalore.io/4#inet#fw4#vpn_domains
-nftset=/github.com/4#inet#fw4#vpn_domains
 nftset=/googleusercontent.com/4#inet#fw4#vpn_domains
 nftset=/grazie.ai/4#inet#fw4#vpn_domains
 nftset=/intellij.com/4#inet#fw4#vpn_domains
